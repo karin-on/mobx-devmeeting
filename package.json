@@ -1,0 +1,32 @@
+{
+  "name": "dm-react-mobx",
+  "version": "0.0.1",
+  "description": "React MobX",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "webpack-dev-server --history-api-fallback --content-base ./src --mode development --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "7.0.0-bridge.0",
+    "mobx-react-devtools": "6.0.3",
+    "webpack-dev-server": "3.1.10"
+  },
+  "dependencies": {
+    "@babel/core": "7.1.0",
+    "@babel/plugin-proposal-class-properties": "7.1.0",
+    "@babel/plugin-proposal-decorators": "7.1.0",
+    "@babel/plugin-transform-runtime": "7.1.0",
+    "@babel/preset-env": "7.1.0",
+    "@babel/preset-react": "7.0.0",
+    "@babel/runtime": "^7.1.5",
+    "babel-loader": "8.0.4",
+    "mobx": "4.6.0",
+    "mobx-react": "5.4.2",
+    "react": "16.6.3",
+    "react-dom": "16.6.3",
+    "webpack": "4.26.0",
+    "webpack-cli": "3.1.2"
+  }
+}
