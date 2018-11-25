@@ -1,1 +1,1 @@
-# MobX DevMeeting workshop - Warsaw, 24 Nov 2018
+# MobX - DevMeetings workshop - Warsaw, 24 Nov 2018
